@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+/* CSS for ordered list */
+ol li[data-ns-test="shoppingList"] {
+    color: blue;
+    font-size: 20px;
+}
+
+/* CSS for unordered list */
+ul li[data-ns-test="holidayList"] {
+    color: green;
+    font-size: 20px;
+}
